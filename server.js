@@ -15,7 +15,7 @@ var server = http.createServer(app);
 var settings = {
   httpAdminRoot: "/red",
   httpNodeRoot: "/api",
-  userDir: "/home/nol/.nodered/",
+  userDir: "/home/app/.nodered/",
   httpNodeCors: {
     origin: "*",
     methods: "GET,PUT,POST,DELETE"
