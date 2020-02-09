@@ -1,6 +1,6 @@
 # node-red-nodejs
 
-Standalone Node-RED environment.
+Node-RED environment running on express (don't need to install Node-RED globally).
 
 see: https://nodered.jp/docs/user-guide/runtime/embedding
 
